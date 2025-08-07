@@ -8,8 +8,6 @@ This is a simple and interactive command-line calculator built with Python. It a
 - User-friendly input prompts
 - Graceful handling of invalid inputs
 - Prevents division by zero
-- Allows multiple calculations in a single run
-- Option to exit anytime by typing `exit`
 
 ## 🛠️ How to Use
 
