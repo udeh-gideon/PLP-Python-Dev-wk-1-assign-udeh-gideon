@@ -27,4 +27,4 @@ python calculator.py
 - See the result!
 
 ## 📚 Acknowledgement
-I want to thank my awesome Python Dev Instructor at PLP for the assignment. It was an interesting and challenging one!
+I want to thank my awesome Python Dev Instructor at PLP for this week 1 assignment. It was an interesting and challenging one!
